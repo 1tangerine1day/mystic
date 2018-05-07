@@ -25,7 +25,7 @@ SECRET_KEY = '@4($%zafp-h9yo19%ecpm!2ofqtht+9d!1ay$^38r-19ny11it'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["prefix.us-west-2.elasticbeanstalk.com"]
 
 
 # Application definition
@@ -120,7 +120,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, "www", "static")
 
-ALLOWED_HOSTS = ['my-eb-site-dev.us-west-2.elasticbeanstalk.com']
 
 
 if 'RDS_DB_NAME' in os.environ:
