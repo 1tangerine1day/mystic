@@ -120,6 +120,9 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, "www", "static")
 
+ALLOWED_HOSTS = ['my-eb-site-dev.us-west-2.elasticbeanstalk.com']
+
+
 if 'RDS_DB_NAME' in os.environ:
     DATABASES = {
         'default': {
