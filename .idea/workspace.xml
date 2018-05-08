@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52f2109-7173-4212-8002-9e9900faa21e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/homepage/templates/44.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage/templates/44.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_eb_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_eb_site/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="44.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="44.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homepage/templates/44.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="50" column="79" selection-start-line="50" selection-start-column="79" selection-end-line="50" selection-end-column="79" />
+            <state relative-caret-position="-116">
+              <caret line="90" column="92" lean-forward="true" selection-start-line="90" selection-start-column="92" selection-end-line="90" selection-end-column="92" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_eb_site/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
-              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
             </state>
           </provider>
         </entry>
@@ -79,16 +82,21 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bg</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my_eb_site/settings.py" />
         <option value="$PROJECT_DIR$/my_eb_site/urls.py" />
         <option value="$PROJECT_DIR$/homepage/views.py" />
         <option value="$PROJECT_DIR$/homepage/templates/44.html" />
+        <option value="$PROJECT_DIR$/my_eb_site/settings.py" />
       </list>
     </option>
   </component>
@@ -256,8 +264,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.37058824" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2584814" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.37058824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584814" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32794118" />
@@ -313,17 +321,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_eb_site/settings.py">
+    <entry file="file://$PROJECT_DIR$/homepage/templates/44.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="-116">
+          <caret line="90" column="92" lean-forward="true" selection-start-line="90" selection-start-column="92" selection-end-line="90" selection-end-column="92" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage/templates/44.html">
+    <entry file="file://$PROJECT_DIR$/my_eb_site/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="50" column="79" selection-start-line="50" selection-start-column="79" selection-end-line="50" selection-end-column="79" />
+        <state relative-caret-position="267">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
