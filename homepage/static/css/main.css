@@ -64,7 +64,7 @@ body {
 
 body {
   color: #fff;
-	background-image: url("bg.jpg");
+	background-image: url("../image/bg.jpg");
 	background-size:cover;
 }
 
